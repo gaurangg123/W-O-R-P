@@ -10,4 +10,6 @@ In this project, we created a College Management Application under which all the
 
 ==> It's a user-friendly Web Based Website for the smooth conveying of information within an organization.
 
+==> It's a mobile-friendly page and desktop website as well.
+
 **This project is still under development**
