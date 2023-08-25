@@ -12,4 +12,4 @@ In this project, we created a College Management Application under which all the
 
 ==> It's a mobile-friendly page and desktop website as well.
 
-**This project is still under development**
+**This project is still under development using XAMPP Control Panel and PHP.**
